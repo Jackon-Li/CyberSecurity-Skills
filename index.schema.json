@@ -50,10 +50,19 @@
           "uniqueItems": true
         },
         "source": {
-          "type": "string"
+          "type": "string",
+          "description": "内容来源描述"
         },
         "license": {
           "type": "string"
+        },
+        "upstream": {
+          "type": "string",
+          "description": "转载来源仓库地址"
+        },
+        "note": {
+          "type": "string",
+          "description": "版权与转载说明"
         }
       }
     },

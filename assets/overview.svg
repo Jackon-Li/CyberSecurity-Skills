@@ -1,0 +1,133 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="492" viewBox="0 0 960 492" role="img" aria-label="CyberSecurity Skills 领域地图：34 个分类分布在五个领域中">
+<rect width="960" height="492" fill="#ffffff"/>
+<text x="32" y="44" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="27" font-weight="700" fill="#1f2328">CyberSecurity Skills</text>
+<text x="32" y="68" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="13" fill="#59636e">820 个安全技能 · 34 个分类 · 面向 AI 助手加载的技能库（转载整理）</text>
+<text x="928" y="44" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="11" fill="#8b949e">领域地图 / Domain Map</text>
+<text x="928" y="68" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="11" fill="#8b949e">Apache-2.0 · 非原创</text>
+<line x1="32" y1="88" x2="928" y2="88" stroke="#d8dee4" stroke-width="1"/>
+<rect x="32" y="104" width="106" height="46" rx="7" fill="#d1242f"/>
+<text x="85" y="123" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="12" font-weight="600" fill="#ffffff">攻击与评估</text>
+<text x="85" y="139" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="10" fill="#ffffff" opacity="0.85">166 项技能</text>
+<rect x="154" y="104" width="78" height="46" rx="6" fill="#fff5f5" stroke="#ffcecb" stroke-width="1"/>
+<text x="163" y="123" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="600" fill="#d1242f">01</text>
+<text x="163" y="139" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="11" fill="#1f2328">渗透测试</text>
+<rect x="240" y="104" width="78" height="46" rx="6" fill="#fff5f5" stroke="#ffcecb" stroke-width="1"/>
+<text x="249" y="123" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="600" fill="#d1242f">02</text>
+<text x="249" y="139" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="11" fill="#1f2328">红队</text>
+<rect x="326" y="104" width="78" height="46" rx="6" fill="#fff5f5" stroke="#ffcecb" stroke-width="1"/>
+<text x="335" y="123" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="600" fill="#d1242f">03</text>
+<text x="335" y="139" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="11" fill="#1f2328">Web 安全</text>
+<rect x="412" y="104" width="78" height="46" rx="6" fill="#fff5f5" stroke="#ffcecb" stroke-width="1"/>
+<text x="421" y="123" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="600" fill="#d1242f">04</text>
+<text x="421" y="139" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="11" fill="#1f2328">API 安全</text>
+<rect x="498" y="104" width="78" height="46" rx="6" fill="#fff5f5" stroke="#ffcecb" stroke-width="1"/>
+<text x="507" y="123" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="600" fill="#d1242f">05</text>
+<text x="507" y="139" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="11" fill="#1f2328">移动安全</text>
+<rect x="584" y="104" width="78" height="46" rx="6" fill="#fff5f5" stroke="#ffcecb" stroke-width="1"/>
+<text x="593" y="123" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="600" fill="#d1242f">06</text>
+<text x="593" y="139" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="11" fill="#1f2328">无线安全</text>
+<rect x="670" y="104" width="78" height="46" rx="6" fill="#fff5f5" stroke="#ffcecb" stroke-width="1"/>
+<text x="679" y="123" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="600" fill="#d1242f">07</text>
+<text x="679" y="139" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="11" fill="#1f2328">区块链</text>
+<rect x="756" y="104" width="78" height="46" rx="6" fill="#fff5f5" stroke="#ffcecb" stroke-width="1"/>
+<text x="765" y="123" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="600" fill="#d1242f">33</text>
+<text x="765" y="139" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="11" fill="#1f2328">AI 安全</text>
+<rect x="32" y="174" width="106" height="46" rx="7" fill="#0969da"/>
+<text x="85" y="193" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="12" font-weight="600" fill="#ffffff">检测与响应</text>
+<text x="85" y="209" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="10" fill="#ffffff" opacity="0.85">547 项技能</text>
+<rect x="154" y="174" width="78" height="46" rx="6" fill="#f2f8ff" stroke="#b6e3ff" stroke-width="1"/>
+<text x="163" y="193" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="600" fill="#0969da">08</text>
+<text x="163" y="209" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="11" fill="#1f2328">欺骗技术</text>
+<rect x="240" y="174" width="78" height="46" rx="6" fill="#f2f8ff" stroke="#b6e3ff" stroke-width="1"/>
+<text x="249" y="193" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="600" fill="#0969da">09</text>
+<text x="249" y="209" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="11" fill="#1f2328">漏洞管理</text>
+<rect x="326" y="174" width="78" height="46" rx="6" fill="#f2f8ff" stroke="#b6e3ff" stroke-width="1"/>
+<text x="335" y="193" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="600" fill="#0969da">10</text>
+<text x="335" y="209" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="11" fill="#1f2328">威胁情报</text>
+<rect x="412" y="174" width="78" height="46" rx="6" fill="#f2f8ff" stroke="#b6e3ff" stroke-width="1"/>
+<text x="421" y="193" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="600" fill="#0969da">11</text>
+<text x="421" y="209" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="11" fill="#1f2328">威胁狩猎</text>
+<rect x="498" y="174" width="78" height="46" rx="6" fill="#f2f8ff" stroke="#b6e3ff" stroke-width="1"/>
+<text x="507" y="193" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="600" fill="#0969da">12</text>
+<text x="507" y="209" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="11" fill="#1f2328">威胁检测</text>
+<rect x="584" y="174" width="78" height="46" rx="6" fill="#f2f8ff" stroke="#b6e3ff" stroke-width="1"/>
+<text x="593" y="193" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="600" fill="#0969da">13</text>
+<text x="593" y="209" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="11" fill="#1f2328">SOC</text>
+<rect x="670" y="174" width="78" height="46" rx="6" fill="#f2f8ff" stroke="#b6e3ff" stroke-width="1"/>
+<text x="679" y="193" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="600" fill="#0969da">17</text>
+<text x="679" y="209" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="11" fill="#1f2328">勒索防御</text>
+<rect x="756" y="174" width="78" height="46" rx="6" fill="#f2f8ff" stroke="#b6e3ff" stroke-width="1"/>
+<text x="765" y="193" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="600" fill="#0969da">18</text>
+<text x="765" y="209" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="11" fill="#1f2328">端点安全</text>
+<rect x="842" y="174" width="78" height="46" rx="6" fill="#f2f8ff" stroke="#b6e3ff" stroke-width="1"/>
+<text x="851" y="193" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="600" fill="#0969da">32</text>
+<text x="851" y="209" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="11" fill="#1f2328">钓鱼防御</text>
+<rect x="32" y="244" width="106" height="46" rx="7" fill="#8250df"/>
+<text x="85" y="263" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="12" font-weight="600" fill="#ffffff">响应与取证</text>
+<text x="85" y="279" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="10" fill="#ffffff" opacity="0.85">107 项技能</text>
+<rect x="154" y="244" width="78" height="46" rx="6" fill="#faf5ff" stroke="#e5d0ff" stroke-width="1"/>
+<text x="163" y="263" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="600" fill="#8250df">14</text>
+<text x="163" y="279" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="11" fill="#1f2328">应急响应</text>
+<rect x="240" y="244" width="78" height="46" rx="6" fill="#faf5ff" stroke="#e5d0ff" stroke-width="1"/>
+<text x="249" y="263" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="600" fill="#8250df">15</text>
+<text x="249" y="279" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="11" fill="#1f2328">数字取证</text>
+<rect x="326" y="244" width="78" height="46" rx="6" fill="#faf5ff" stroke="#e5d0ff" stroke-width="1"/>
+<text x="335" y="263" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="600" fill="#8250df">16</text>
+<text x="335" y="279" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="11" fill="#1f2328">恶意软件</text>
+<rect x="412" y="244" width="78" height="46" rx="6" fill="#faf5ff" stroke="#e5d0ff" stroke-width="1"/>
+<text x="421" y="263" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="600" fill="#8250df">29</text>
+<text x="421" y="279" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="11" fill="#1f2328">数据保护</text>
+<rect x="32" y="314" width="106" height="46" rx="7" fill="#1a7f83"/>
+<text x="85" y="333" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="12" font-weight="600" fill="#ffffff">平台与工程</text>
+<text x="85" y="349" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="10" fill="#ffffff" opacity="0.85">8 个分类</text>
+<rect x="154" y="314" width="78" height="46" rx="6" fill="#f0fafa" stroke="#b8e5e6" stroke-width="1"/>
+<text x="163" y="333" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="600" fill="#1a7f83">19</text>
+<text x="163" y="349" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="11" fill="#1f2328">网络安全</text>
+<rect x="240" y="314" width="78" height="46" rx="6" fill="#f0fafa" stroke="#b8e5e6" stroke-width="1"/>
+<text x="249" y="333" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="600" fill="#1a7f83">20</text>
+<text x="249" y="349" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="11" fill="#1f2328">身份访问</text>
+<rect x="326" y="314" width="78" height="46" rx="6" fill="#f0fafa" stroke="#b8e5e6" stroke-width="1"/>
+<text x="335" y="333" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="600" fill="#1a7f83">21</text>
+<text x="335" y="349" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="11" fill="#1f2328">零信任</text>
+<rect x="412" y="314" width="78" height="46" rx="6" fill="#f0fafa" stroke="#b8e5e6" stroke-width="1"/>
+<text x="421" y="333" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="600" fill="#1a7f83">22</text>
+<text x="421" y="349" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="11" fill="#1f2328">云安全</text>
+<rect x="498" y="314" width="78" height="46" rx="6" fill="#f0fafa" stroke="#b8e5e6" stroke-width="1"/>
+<text x="507" y="333" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="600" fill="#1a7f83">23</text>
+<text x="507" y="349" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="11" fill="#1f2328">容器安全</text>
+<rect x="584" y="314" width="78" height="46" rx="6" fill="#f0fafa" stroke="#b8e5e6" stroke-width="1"/>
+<text x="593" y="333" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="600" fill="#1a7f83">24</text>
+<text x="593" y="349" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="11" fill="#1f2328">OT/ICS</text>
+<rect x="670" y="314" width="78" height="46" rx="6" fill="#f0fafa" stroke="#b8e5e6" stroke-width="1"/>
+<text x="679" y="333" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="600" fill="#1a7f83">25</text>
+<text x="679" y="349" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="11" fill="#1f2328">硬件固件</text>
+<rect x="756" y="314" width="78" height="46" rx="6" fill="#f0fafa" stroke="#b8e5e6" stroke-width="1"/>
+<text x="765" y="333" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="600" fill="#1a7f83">26</text>
+<text x="765" y="349" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="11" fill="#1f2328">供应链</text>
+<rect x="32" y="384" width="106" height="46" rx="7" fill="#57606a"/>
+<text x="85" y="403" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="12" font-weight="600" fill="#ffffff">治理与合规</text>
+<text x="85" y="419" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="10" fill="#ffffff" opacity="0.85">5 个分类</text>
+<rect x="154" y="384" width="78" height="46" rx="6" fill="#f6f8fa" stroke="#d8dee4" stroke-width="1"/>
+<text x="163" y="403" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="600" fill="#57606a">27</text>
+<text x="163" y="419" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="11" fill="#1f2328">DevSecOps</text>
+<rect x="240" y="384" width="78" height="46" rx="6" fill="#f6f8fa" stroke="#d8dee4" stroke-width="1"/>
+<text x="249" y="403" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="600" fill="#57606a">28</text>
+<text x="249" y="419" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="11" fill="#1f2328">密码学</text>
+<rect x="326" y="384" width="78" height="46" rx="6" fill="#f6f8fa" stroke="#d8dee4" stroke-width="1"/>
+<text x="335" y="403" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="600" fill="#57606a">30</text>
+<text x="335" y="419" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="11" fill="#1f2328">隐私合规</text>
+<rect x="412" y="384" width="78" height="46" rx="6" fill="#f6f8fa" stroke="#d8dee4" stroke-width="1"/>
+<text x="421" y="403" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="600" fill="#57606a">31</text>
+<text x="421" y="419" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="11" fill="#1f2328">合规治理</text>
+<rect x="498" y="384" width="78" height="46" rx="6" fill="#f6f8fa" stroke="#d8dee4" stroke-width="1"/>
+<text x="507" y="403" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9" font-weight="600" fill="#57606a">34</text>
+<text x="507" y="419" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="11" fill="#1f2328">紫队</text>
+<line x1="32" y1="434" x2="928" y2="434" stroke="#eaeef2" stroke-width="1"/>
+<circle cx="37" cy="452" r="5" fill="#d1242f"/>
+<text x="49" y="456" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="11" fill="#59636e">红队向 166</text>
+<circle cx="155" cy="452" r="5" fill="#0969da"/>
+<text x="167" y="456" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="11" fill="#59636e">蓝队向 547</text>
+<circle cx="273" cy="452" r="5" fill="#8250df"/>
+<text x="285" y="456" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="11" fill="#59636e">取证向 107</text>
+<text x="928" y="456" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="11" fill="#8b949e">编号顺序：攻击面 → 检测响应 → 平台工程 → 治理合规</text>
+</svg>

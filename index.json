@@ -2,7 +2,7 @@
   "meta": {
     "title": "网络安全技能库 CyberSecurity Skills",
     "description": "面向 AI 助手（Claude Code / WorkBuddy / Cursor 等）的网络安全技能合集：820 个技能，34 个分类，覆盖攻击面、检测响应、平台工程与治理合规，每个技能含 SKILL.md、references 与可运行脚本。",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "total_skills": 820,
     "total_modules": 34,
     "last_updated": "2026-10-18",
@@ -15,7 +15,9 @@
       "OWASP Agentic AI Top 10"
     ],
     "source": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-    "license": "Apache-2.0"
+    "license": "Apache-2.0",
+    "upstream": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+    "note": "本仓库为转载整理，技能内容版权归原作者 mahipal 所有。整理层（索引/脚本/文档）同样以 Apache-2.0 发布。"
   },
   "modules": [
     {

@@ -1,10 +1,11 @@
-# 04-API安全 · APISecurity
+# 04 · API安全
 
-> 本分类共 **28** 个技能（红队 28）。
+[← 仓库首页](../README.md) · 分类 **04** · `APISecurity` · **28** 个技能 · 领域 **红队**
 
-每个技能为独立目录，内含 `SKILL.md`（入口）、`references/`（补充资料）、`scripts/`（可运行脚本）与 `LICENSE`。
+> 每个技能为独立目录，内含 `SKILL.md`（入口）、`references/`（补充资料）、`scripts/`（可运行脚本）与 `LICENSE`。
+> 技能内容**转载自上游开源项目，非原创**，版权归原作者所有。详见[来源与版权](../README.md#来源与版权)与[使用边界](../SECURITY.md)。
 
-| # | 技能 | 英文标识 | 摘要 | 路径 |
+| # | 技能 | 英文标识 | 摘要 | 入口 |
 |---|---|---|---|---|
 | 1 | **42Crunch平台API安全测试** | `implementing-api-security-testing-with-42crunch` | Implements API security testing on the 42Crunch platform, combining AP… | [SKILL.md](skills/42Crunch平台API安全测试_implementing-api-security-testing-with-42crunch/SKILL.md) |
 | 2 | **API功能级越权利用** | `exploiting-broken-function-level-authorization` | Tests APIs for Broken Function Level Authorization (OWASP API5:2023) b… | [SKILL.md](skills/API功能级越权利用_exploiting-broken-function-level-authorization/SKILL.md) |
@@ -32,9 +33,9 @@
 | 24 | **Postman工具API安全测试** | `performing-api-security-testing-with-postman` | Uses Postman to build structured API security test collections coverin… | [SKILL.md](skills/Postman工具API安全测试_performing-api-security-testing-with-postman/SKILL.md) |
 | 25 | **RESTler工具API模糊测试** | `performing-api-fuzzing-with-restler` | Uses Microsoft RESTler to perform stateful REST API fuzzing: compiles… | [SKILL.md](skills/RESTler工具API模糊测试_performing-api-fuzzing-with-restler/SKILL.md) |
 | 26 | **SOAP服务安全测试** | `performing-soap-web-service-security-testing` | Performs security testing of SOAP web services by analyzing WSDL defin… | [SKILL.md](skills/SOAP服务安全测试_performing-soap-web-service-security-testing/SKILL.md) |
-| 27 | **WebSocket API安全测试** | `testing-websocket-api-security` | Tests WebSocket API implementations for missing upgrade-handshake auth… | [SKILL.md](skills/WebSocket API安全测试_testing-websocket-api-security/SKILL.md) |
+| 27 | **WebSocket API安全测试** | `testing-websocket-api-security` | Tests WebSocket API implementations for missing upgrade-handshake auth… | [SKILL.md](skills/WebSocket%20API安全测试_testing-websocket-api-security/SKILL.md) |
 | 28 | **影子API端点发现** | `detecting-shadow-api-endpoints` | Discover and inventory shadow API endpoints that operate outside docum… | [SKILL.md](skills/影子API端点发现_detecting-shadow-api-endpoints/SKILL.md) |
 
 ---
 
-← 返回 [仓库首页](../README.md) · 索引见 [index.json](../index.json)
+<sub>本页由脚本生成 · 技能内容转载自上游项目，非原创 · [返回首页](../README.md) · [索引](../index.json) · [使用边界](../SECURITY.md)</sub>

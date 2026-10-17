@@ -1,20 +1,21 @@
-# 18-端点安全 · EndpointSecurity
+# 18 · 端点安全
 
-> 本分类共 **17** 个技能（蓝队 17）。
+[← 仓库首页](../README.md) · 分类 **18** · `EndpointSecurity` · **17** 个技能 · 领域 **蓝队**
 
-每个技能为独立目录，内含 `SKILL.md`（入口）、`references/`（补充资料）、`scripts/`（可运行脚本）与 `LICENSE`。
+> 每个技能为独立目录，内含 `SKILL.md`（入口）、`references/`（补充资料）、`scripts/`（可运行脚本）与 `LICENSE`。
+> 技能内容**转载自上游开源项目，非原创**，版权归原作者所有。详见[来源与版权](../README.md#来源与版权)与[使用边界](../SECURITY.md)。
 
-| # | 技能 | 英文标识 | 摘要 | 路径 |
+| # | 技能 | 英文标识 | 摘要 | 入口 |
 |---|---|---|---|---|
 | 1 | **AIDE文件完整性监控** | `implementing-file-integrity-monitoring-with-aide` | Configures AIDE (Advanced Intrusion Detection Environment) for file in… | [SKILL.md](skills/AIDE文件完整性监控_implementing-file-integrity-monitoring-with-aide/SKILL.md) |
 | 2 | **AppLocker应用白名单** | `implementing-application-whitelisting-with-applocker` | Implements application whitelisting using Windows AppLocker to restric… | [SKILL.md](skills/AppLocker应用白名单_implementing-application-whitelisting-with-applocker/SKILL.md) |
 | 3 | **BitLocker磁盘加密** | `implementing-disk-encryption-with-bitlocker` | Implements full disk encryption using Microsoft BitLocker on Windows e… | [SKILL.md](skills/BitLocker磁盘加密_implementing-disk-encryption-with-bitlocker/SKILL.md) |
-| 4 | **CrowdStrike EDR部署** | `deploying-edr-agent-with-crowdstrike` | Deploys and configures CrowdStrike Falcon EDR agents across enterprise… | [SKILL.md](skills/CrowdStrike EDR部署_deploying-edr-agent-with-crowdstrike/SKILL.md) |
+| 4 | **CrowdStrike EDR部署** | `deploying-edr-agent-with-crowdstrike` | Deploys and configures CrowdStrike Falcon EDR agents across enterprise… | [SKILL.md](skills/CrowdStrike%20EDR部署_deploying-edr-agent-with-crowdstrike/SKILL.md) |
 | 5 | **DEP-ASLR内存保护** | `implementing-memory-protection-with-dep-aslr` | Implements memory protection mechanisms including DEP (Data Execution… | [SKILL.md](skills/DEP-ASLR内存保护_implementing-memory-protection-with-dep-aslr/SKILL.md) |
 | 6 | **Defender高级安全配置** | `configuring-windows-defender-advanced-settings` | Configures Microsoft Defender for Endpoint (MDE) advanced protection s… | [SKILL.md](skills/Defender高级安全配置_configuring-windows-defender-advanced-settings/SKILL.md) |
-| 7 | **Linux CIS基准加固** | `hardening-linux-endpoint-with-cis-benchmark` | Hardens Linux endpoints using CIS Benchmark recommendations for Ubuntu… | [SKILL.md](skills/Linux CIS基准加固_hardening-linux-endpoint-with-cis-benchmark/SKILL.md) |
+| 7 | **Linux CIS基准加固** | `hardening-linux-endpoint-with-cis-benchmark` | Hardens Linux endpoints using CIS Benchmark recommendations for Ubuntu… | [SKILL.md](skills/Linux%20CIS基准加固_hardening-linux-endpoint-with-cis-benchmark/SKILL.md) |
 | 8 | **USB设备控制策略** | `implementing-usb-device-control-policy` | Implements USB device control policies to restrict unauthorized remova… | [SKILL.md](skills/USB设备控制策略_implementing-usb-device-control-policy/SKILL.md) |
-| 9 | **Windows CIS基准加固** | `hardening-windows-endpoint-with-cis-benchmark` | Hardens Windows endpoints using CIS (Center for Internet Security) Ben… | [SKILL.md](skills/Windows CIS基准加固_hardening-windows-endpoint-with-cis-benchmark/SKILL.md) |
+| 9 | **Windows CIS基准加固** | `hardening-windows-endpoint-with-cis-benchmark` | Hardens Windows endpoints using CIS (Center for Internet Security) Ben… | [SKILL.md](skills/Windows%20CIS基准加固_hardening-windows-endpoint-with-cis-benchmark/SKILL.md) |
 | 10 | **Windows审计日志配置** | `configuring-windows-event-logging-for-detection` | Configures Windows Event Logging with advanced audit policies to gener… | [SKILL.md](skills/Windows审计日志配置_configuring-windows-event-logging-for-detection/SKILL.md) |
 | 11 | **osquery端点监控** | `deploying-osquery-for-endpoint-monitoring` | Deploys and configures osquery for real-time endpoint monitoring using… | [SKILL.md](skills/osquery端点监控_deploying-osquery-for-endpoint-monitoring/SKILL.md) |
 | 12 | **主机入侵检测HIDS配置** | `configuring-host-based-intrusion-detection` | Configures host-based intrusion detection systems (HIDS) to monitor en… | [SKILL.md](skills/主机入侵检测HIDS配置_configuring-host-based-intrusion-detection/SKILL.md) |
@@ -26,4 +27,4 @@
 
 ---
 
-← 返回 [仓库首页](../README.md) · 索引见 [index.json](../index.json)
+<sub>本页由脚本生成 · 技能内容转载自上游项目，非原创 · [返回首页](../README.md) · [索引](../index.json) · [使用边界](../SECURITY.md)</sub>

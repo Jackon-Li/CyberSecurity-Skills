@@ -1,10 +1,11 @@
-# 03-Web应用安全 · WebApplicationSecurity
+# 03 · Web应用安全
 
-> 本分类共 **47** 个技能（红队 47）。
+[← 仓库首页](../README.md) · 分类 **03** · `WebApplicationSecurity` · **47** 个技能 · 领域 **红队**
 
-每个技能为独立目录，内含 `SKILL.md`（入口）、`references/`（补充资料）、`scripts/`（可运行脚本）与 `LICENSE`。
+> 每个技能为独立目录，内含 `SKILL.md`（入口）、`references/`（补充资料）、`scripts/`（可运行脚本）与 `LICENSE`。
+> 技能内容**转载自上游开源项目，非原创**，版权归原作者所有。详见[来源与版权](../README.md#来源与版权)与[使用边界](../SECURITY.md)。
 
-| # | 技能 | 英文标识 | 摘要 | 路径 |
+| # | 技能 | 英文标识 | 摘要 | 入口 |
 |---|---|---|---|---|
 | 1 | **AFL++二进制模糊测试** | `performing-fuzzing-with-aflplusplus` | Performs coverage-guided fuzzing of compiled binaries with AFL++, inst… | [SKILL.md](skills/AFL++二进制模糊测试_performing-fuzzing-with-aflplusplus/SKILL.md) |
 | 2 | **CORS配置错误测试** | `testing-cors-misconfiguration` | Identifying and exploiting Cross-Origin Resource Sharing misconfigurat… | [SKILL.md](skills/CORS配置错误测试_testing-cors-misconfiguration/SKILL.md) |
@@ -22,10 +23,10 @@
 | 14 | **ModSecurity日志审计** | `implementing-web-application-logging-with-modsecurity` | Configure ModSecurity WAF with the OWASP Core Rule Set (CRS) for web a… | [SKILL.md](skills/ModSecurity日志审计_implementing-web-application-logging-with-modsecurity/SKILL.md) |
 | 15 | **NoSQL注入漏洞利用** | `exploiting-nosql-injection-vulnerabilities` | Detects and exploits NoSQL injection vulnerabilities in MongoDB, Couch… | [SKILL.md](skills/NoSQL注入漏洞利用_exploiting-nosql-injection-vulnerabilities/SKILL.md) |
 | 16 | **OAuth配置错误利用** | `exploiting-oauth-misconfiguration` | Identifying and exploiting OAuth 2.0 and OpenID Connect misconfigurati… | [SKILL.md](skills/OAuth配置错误利用_exploiting-oauth-misconfiguration/SKILL.md) |
-| 17 | **OWASP API安全测试** | `testing-api-security-with-owasp-top-10` | Systematically assesses REST, GraphQL, and gRPC API endpoints against… | [SKILL.md](skills/OWASP API安全测试_testing-api-security-with-owasp-top-10/SKILL.md) |
+| 17 | **OWASP API安全测试** | `testing-api-security-with-owasp-top-10` | Systematically assesses REST, GraphQL, and gRPC API endpoints against… | [SKILL.md](skills/OWASP%20API安全测试_testing-api-security-with-owasp-top-10/SKILL.md) |
 | 18 | **PHP类型混淆利用** | `exploiting-type-juggling-vulnerabilities` | Exploits PHP type juggling vulnerabilities caused by loose (==) compar… | [SKILL.md](skills/PHP类型混淆利用_exploiting-type-juggling-vulnerabilities/SKILL.md) |
 | 19 | **RASP应用自保护部署** | `implementing-runtime-application-self-protection` | Deploy Runtime Application Self-Protection (RASP) agents to detect and… | [SKILL.md](skills/RASP应用自保护部署_implementing-runtime-application-self-protection/SKILL.md) |
-| 20 | **REST API批量赋值利用** | `exploiting-mass-assignment-in-rest-apis` | Discovers and exploits mass assignment (autobinding) in REST APIs by i… | [SKILL.md](skills/REST API批量赋值利用_exploiting-mass-assignment-in-rest-apis/SKILL.md) |
+| 20 | **REST API批量赋值利用** | `exploiting-mass-assignment-in-rest-apis` | Discovers and exploits mass assignment (autobinding) in REST APIs by i… | [SKILL.md](skills/REST%20API批量赋值利用_exploiting-mass-assignment-in-rest-apis/SKILL.md) |
 | 21 | **SSRF服务端请求伪造利用** | `exploiting-server-side-request-forgery` | Identifying and exploiting SSRF vulnerabilities to access internal ser… | [SKILL.md](skills/SSRF服务端请求伪造利用_exploiting-server-side-request-forgery/SKILL.md) |
 | 22 | **Subfinder子域名枚举** | `performing-subdomain-enumeration-with-subfinder` | Enumerate subdomains of target domains using ProjectDiscovery's Subfin… | [SKILL.md](skills/Subfinder子域名枚举_performing-subdomain-enumeration-with-subfinder/SKILL.md) |
 | 23 | **WAF绕过测试** | `performing-web-application-firewall-bypass` | Bypasses Web Application Firewall protections using encoding tricks, H… | [SKILL.md](skills/WAF绕过测试_performing-web-application-firewall-bypass/SKILL.md) |
@@ -56,4 +57,4 @@
 
 ---
 
-← 返回 [仓库首页](../README.md) · 索引见 [index.json](../index.json)
+<sub>本页由脚本生成 · 技能内容转载自上游项目，非原创 · [返回首页](../README.md) · [索引](../index.json) · [使用边界](../SECURITY.md)</sub>

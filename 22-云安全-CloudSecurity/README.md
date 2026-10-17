@@ -1,25 +1,26 @@
-# 22-云安全 · CloudSecurity
+# 22 · 云安全
 
-> 本分类共 **66** 个技能（蓝队 66）。
+[← 仓库首页](../README.md) · 分类 **22** · `CloudSecurity` · **66** 个技能 · 领域 **蓝队**
 
-每个技能为独立目录，内含 `SKILL.md`（入口）、`references/`（补充资料）、`scripts/`（可运行脚本）与 `LICENSE`。
+> 每个技能为独立目录，内含 `SKILL.md`（入口）、`references/`（补充资料）、`scripts/`（可运行脚本）与 `LICENSE`。
+> 技能内容**转载自上游开源项目，非原创**，版权归原作者所有。详见[来源与版权](../README.md#来源与版权)与[使用边界](../SECURITY.md)。
 
-| # | 技能 | 英文标识 | 摘要 | 路径 |
+| # | 技能 | 英文标识 | 摘要 | 入口 |
 |---|---|---|---|---|
-| 1 | **AWS CloudTrail异常检测** | `detecting-aws-cloudtrail-anomalies` | Detect unusual API call patterns in AWS CloudTrail logs using boto3, s… | [SKILL.md](skills/AWS CloudTrail异常检测_detecting-aws-cloudtrail-anomalies/SKILL.md) |
-| 2 | **AWS Config合规规则** | `implementing-aws-config-rules-for-compliance` | Implements AWS Config managed and custom rules for continuous complian… | [SKILL.md](skills/AWS Config合规规则_implementing-aws-config-rules-for-compliance/SKILL.md) |
-| 3 | **AWS IAM权限加固** | `securing-aws-iam-permissions` | Hardens AWS IAM configurations to enforce least-privilege access, cove… | [SKILL.md](skills/AWS IAM权限加固_securing-aws-iam-permissions/SKILL.md) |
-| 4 | **AWS IAM权限提升检测** | `detecting-aws-iam-privilege-escalation` | Detect AWS IAM privilege escalation paths using boto3 and Cloudsplaini… | [SKILL.md](skills/AWS IAM权限提升检测_detecting-aws-iam-privilege-escalation/SKILL.md) |
-| 5 | **AWS Nitro Enclave安全** | `implementing-aws-nitro-enclave-security` | Build AWS Nitro Enclave confidential computing environments using nitr… | [SKILL.md](skills/AWS Nitro Enclave安全_implementing-aws-nitro-enclave-security/SKILL.md) |
-| 6 | **AWS S3存储桶权限审计** | `auditing-aws-s3-bucket-permissions` | Systematically audit AWS S3 bucket permissions to identify publicly ac… | [SKILL.md](skills/AWS S3存储桶权限审计_auditing-aws-s3-bucket-permissions/SKILL.md) |
-| 7 | **AWS Security Hub部署** | `implementing-aws-security-hub` | Deploy AWS Security Hub as a centralized CSPM platform, backed by AWS… | [SKILL.md](skills/AWS Security Hub部署_implementing-aws-security-hub/SKILL.md) |
-| 8 | **AWS WAF网关防护** | `securing-api-gateway-with-aws-waf` | Secures AWS API Gateway endpoints with AWS WAF by configuring managed… | [SKILL.md](skills/AWS WAF网关防护_securing-api-gateway-with-aws-waf/SKILL.md) |
+| 1 | **AWS CloudTrail异常检测** | `detecting-aws-cloudtrail-anomalies` | Detect unusual API call patterns in AWS CloudTrail logs using boto3, s… | [SKILL.md](skills/AWS%20CloudTrail异常检测_detecting-aws-cloudtrail-anomalies/SKILL.md) |
+| 2 | **AWS Config合规规则** | `implementing-aws-config-rules-for-compliance` | Implements AWS Config managed and custom rules for continuous complian… | [SKILL.md](skills/AWS%20Config合规规则_implementing-aws-config-rules-for-compliance/SKILL.md) |
+| 3 | **AWS IAM权限加固** | `securing-aws-iam-permissions` | Hardens AWS IAM configurations to enforce least-privilege access, cove… | [SKILL.md](skills/AWS%20IAM权限加固_securing-aws-iam-permissions/SKILL.md) |
+| 4 | **AWS IAM权限提升检测** | `detecting-aws-iam-privilege-escalation` | Detect AWS IAM privilege escalation paths using boto3 and Cloudsplaini… | [SKILL.md](skills/AWS%20IAM权限提升检测_detecting-aws-iam-privilege-escalation/SKILL.md) |
+| 5 | **AWS Nitro Enclave安全** | `implementing-aws-nitro-enclave-security` | Build AWS Nitro Enclave confidential computing environments using nitr… | [SKILL.md](skills/AWS%20Nitro%20Enclave安全_implementing-aws-nitro-enclave-security/SKILL.md) |
+| 6 | **AWS S3存储桶权限审计** | `auditing-aws-s3-bucket-permissions` | Systematically audit AWS S3 bucket permissions to identify publicly ac… | [SKILL.md](skills/AWS%20S3存储桶权限审计_auditing-aws-s3-bucket-permissions/SKILL.md) |
+| 7 | **AWS Security Hub部署** | `implementing-aws-security-hub` | Deploy AWS Security Hub as a centralized CSPM platform, backed by AWS… | [SKILL.md](skills/AWS%20Security%20Hub部署_implementing-aws-security-hub/SKILL.md) |
+| 8 | **AWS WAF网关防护** | `securing-api-gateway-with-aws-waf` | Secures AWS API Gateway endpoints with AWS WAF by configuring managed… | [SKILL.md](skills/AWS%20WAF网关防护_securing-api-gateway-with-aws-waf/SKILL.md) |
 | 9 | **AWS凭据泄露检测** | `detecting-aws-credential-exposure-with-trufflehog` | Scan source code repositories, CI/CD pipelines, and configuration file… | [SKILL.md](skills/AWS凭据泄露检测_detecting-aws-credential-exposure-with-trufflehog/SKILL.md) |
 | 10 | **AWS合规监控中心** | `implementing-aws-security-hub-compliance` | Deploy AWS Security Hub, backed by AWS Config, to aggregate findings f… | [SKILL.md](skills/AWS合规监控中心_implementing-aws-security-hub-compliance/SKILL.md) |
 | 11 | **AWS权限提升评估** | `performing-aws-privilege-escalation-assessment` | Performing authorized privilege escalation assessments in AWS environm… | [SKILL.md](skills/AWS权限提升评估_performing-aws-privilege-escalation-assessment/SKILL.md) |
 | 12 | **Athena云日志取证** | `performing-cloud-log-forensics-with-athena` | Uses AWS Athena to query CloudTrail, VPC Flow Logs, S3 access logs, an… | [SKILL.md](skills/Athena云日志取证_performing-cloud-log-forensics-with-athena/SKILL.md) |
-| 13 | **Azure AD配置审计** | `auditing-azure-active-directory-configuration` | Auditing Microsoft Entra ID (Azure Active Directory) configuration to… | [SKILL.md](skills/Azure AD配置审计_auditing-azure-active-directory-configuration/SKILL.md) |
-| 14 | **Azure Defender云防护** | `implementing-azure-defender-for-cloud` | Enable Microsoft Defender for Cloud (CSPM + CWPP) across VMs, containe… | [SKILL.md](skills/Azure Defender云防护_implementing-azure-defender-for-cloud/SKILL.md) |
+| 13 | **Azure AD配置审计** | `auditing-azure-active-directory-configuration` | Auditing Microsoft Entra ID (Azure Active Directory) configuration to… | [SKILL.md](skills/Azure%20AD配置审计_auditing-azure-active-directory-configuration/SKILL.md) |
+| 14 | **Azure Defender云防护** | `implementing-azure-defender-for-cloud` | Enable Microsoft Defender for Cloud (CSPM + CWPP) across VMs, containe… | [SKILL.md](skills/Azure%20Defender云防护_implementing-azure-defender-for-cloud/SKILL.md) |
 | 15 | **Azure存储配置错误检测** | `detecting-azure-storage-account-misconfigurations` | Audit Azure Blob and ADLS storage accounts for public access exposure,… | [SKILL.md](skills/Azure存储配置错误检测_detecting-azure-storage-account-misconfigurations/SKILL.md) |
 | 16 | **Azure存储配置错误检测** | `detecting-misconfigured-azure-storage` | Audit Azure Storage accounts for public blob containers, missing encry… | [SKILL.md](skills/Azure存储配置错误检测_detecting-misconfigured-azure-storage/SKILL.md) |
 | 17 | **Azure服务主体滥用检测** | `detecting-azure-service-principal-abuse` | Detect Azure service principal abuse in Microsoft Entra ID using KQL d… | [SKILL.md](skills/Azure服务主体滥用检测_detecting-azure-service-principal-abuse/SKILL.md) |
@@ -32,9 +33,9 @@
 | 24 | **Defender云防护部署** | `securing-azure-with-microsoft-defender` | Deploys and configures Microsoft Defender for Cloud as a CNAPP for Azu… | [SKILL.md](skills/Defender云防护部署_securing-azure-with-microsoft-defender/SKILL.md) |
 | 25 | **Detective云威胁狩猎** | `performing-cloud-native-threat-hunting-with-aws-detective` | Investigate AWS security incidents using Amazon Detective's behavior g… | [SKILL.md](skills/Detective云威胁狩猎_performing-cloud-native-threat-hunting-with-aws-detective/SKILL.md) |
 | 26 | **Falco云原生取证** | `performing-cloud-native-forensics-with-falco` | Uses Falco YAML rules for runtime threat detection in containers and K… | [SKILL.md](skills/Falco云原生取证_performing-cloud-native-forensics-with-falco/SKILL.md) |
-| 27 | **Forseti GCP安全评估** | `performing-gcp-security-assessment-with-forseti` | Performing comprehensive security assessments of Google Cloud Platform… | [SKILL.md](skills/Forseti GCP安全评估_performing-gcp-security-assessment-with-forseti/SKILL.md) |
-| 28 | **GCP IAM权限审计** | `auditing-gcp-iam-permissions` | Auditing Google Cloud Platform IAM permissions to identify overly perm… | [SKILL.md](skills/GCP IAM权限审计_auditing-gcp-iam-permissions/SKILL.md) |
-| 29 | **GCP VPC防火墙规则** | `implementing-gcp-vpc-firewall-rules` | Implements and audits GCP VPC firewall rules using gcloud, covering au… | [SKILL.md](skills/GCP VPC防火墙规则_implementing-gcp-vpc-firewall-rules/SKILL.md) |
+| 27 | **Forseti GCP安全评估** | `performing-gcp-security-assessment-with-forseti` | Performing comprehensive security assessments of Google Cloud Platform… | [SKILL.md](skills/Forseti%20GCP安全评估_performing-gcp-security-assessment-with-forseti/SKILL.md) |
+| 28 | **GCP IAM权限审计** | `auditing-gcp-iam-permissions` | Auditing Google Cloud Platform IAM permissions to identify overly perm… | [SKILL.md](skills/GCP%20IAM权限审计_auditing-gcp-iam-permissions/SKILL.md) |
+| 29 | **GCP VPC防火墙规则** | `implementing-gcp-vpc-firewall-rules` | Implements and audits GCP VPC firewall rules using gcloud, covering au… | [SKILL.md](skills/GCP%20VPC防火墙规则_implementing-gcp-vpc-firewall-rules/SKILL.md) |
 | 30 | **GCP二进制授权** | `implementing-gcp-binary-authorization` | Implements GCP Binary Authorization end to end, including creating KMS… | [SKILL.md](skills/GCP二进制授权_implementing-gcp-binary-authorization/SKILL.md) |
 | 31 | **GCP存储桶爆破测试** | `performing-gcp-penetration-testing-with-gcpbucketbrute` | Performs authorized GCP security testing using GCPBucketBrute to enume… | [SKILL.md](skills/GCP存储桶爆破测试_performing-gcp-penetration-testing-with-gcpbucketbrute/SKILL.md) |
 | 32 | **GCP组织策略约束** | `implementing-gcp-organization-policy-constraints` | Implements GCP Organization Policy constraints via gcloud and Terrafor… | [SKILL.md](skills/GCP组织策略约束_implementing-gcp-organization-policy-constraints/SKILL.md) |
@@ -51,7 +52,7 @@
 | 43 | **Pacu框架AWS利用** | `exploiting-aws-with-pacu` | Runs the Pacu AWS exploitation framework end-to-end — session and cred… | [SKILL.md](skills/Pacu框架AWS利用_exploiting-aws-with-pacu/SKILL.md) |
 | 44 | **S3存储桶配置修复** | `remediating-s3-bucket-misconfiguration` | Provides step-by-step procedures for remediating Amazon S3 bucket misc… | [SKILL.md](skills/S3存储桶配置修复_remediating-s3-bucket-misconfiguration/SKILL.md) |
 | 45 | **S3数据外泄检测** | `detecting-s3-data-exfiltration-attempts` | Detecting data exfiltration attempts from AWS S3 buckets by analyzing… | [SKILL.md](skills/S3数据外泄检测_detecting-s3-data-exfiltration-attempts/SKILL.md) |
-| 46 | **ScoutSuite AWS资产枚举** | `performing-aws-account-enumeration-with-scout-suite` | Run the agentless, open-source ScoutSuite tool (via pip install and th… | [SKILL.md](skills/ScoutSuite AWS资产枚举_performing-aws-account-enumeration-with-scout-suite/SKILL.md) |
+| 46 | **ScoutSuite AWS资产枚举** | `performing-aws-account-enumeration-with-scout-suite` | Run the agentless, open-source ScoutSuite tool (via pip install and th… | [SKILL.md](skills/ScoutSuite%20AWS资产枚举_performing-aws-account-enumeration-with-scout-suite/SKILL.md) |
 | 47 | **Sentinel云SIEM建设** | `building-cloud-siem-with-sentinel` | Deploy Microsoft Sentinel as a cloud-native SIEM/SOAR by configuring m… | [SKILL.md](skills/Sentinel云SIEM建设_building-cloud-siem-with-sentinel/SKILL.md) |
 | 48 | **Serverless函数加固** | `securing-serverless-functions` | Hardens serverless compute platforms (AWS Lambda, Azure Functions, Goo… | [SKILL.md](skills/Serverless函数加固_securing-serverless-functions/SKILL.md) |
 | 49 | **Serverless函数安全审查** | `performing-serverless-function-security-review` | Performing security reviews of serverless functions across AWS Lambda,… | [SKILL.md](skills/Serverless函数安全审查_performing-serverless-function-security-review/SKILL.md) |
@@ -75,4 +76,4 @@
 
 ---
 
-← 返回 [仓库首页](../README.md) · 索引见 [index.json](../index.json)
+<sub>本页由脚本生成 · 技能内容转载自上游项目，非原创 · [返回首页](../README.md) · [索引](../index.json) · [使用边界](../SECURITY.md)</sub>

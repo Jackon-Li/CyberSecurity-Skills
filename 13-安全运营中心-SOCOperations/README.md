@@ -1,10 +1,11 @@
-# 13-安全运营中心 · SOCOperations
+# 13 · 安全运营中心
 
-> 本分类共 **63** 个技能（蓝队 63）。
+[← 仓库首页](../README.md) · 分类 **13** · `SOCOperations` · **63** 个技能 · 领域 **蓝队**
 
-每个技能为独立目录，内含 `SKILL.md`（入口）、`references/`（补充资料）、`scripts/`（可运行脚本）与 `LICENSE`。
+> 每个技能为独立目录，内含 `SKILL.md`（入口）、`references/`（补充资料）、`scripts/`（可运行脚本）与 `LICENSE`。
+> 技能内容**转载自上游开源项目，非原创**，版权归原作者所有。详见[来源与版权](../README.md#来源与版权)与[使用边界](../SECURITY.md)。
 
-| # | 技能 | 英文标识 | 摘要 | 路径 |
+| # | 技能 | 英文标识 | 摘要 | 入口 |
 |---|---|---|---|---|
 | 1 | **API网关访问日志分析** | `analyzing-api-gateway-access-logs` | Parses API Gateway access logs (AWS API Gateway, Kong, Nginx) to detec… | [SKILL.md](skills/API网关访问日志分析_analyzing-api-gateway-access-logs/SKILL.md) |
 | 2 | **APT关联规则编写** | `implementing-siem-correlation-rules-for-apt` | Write multi-event correlation rules in Splunk SPL and Sigma format tha… | [SKILL.md](skills/APT关联规则编写_implementing-siem-correlation-rules-for-apt/SKILL.md) |
@@ -37,7 +38,7 @@
 | 29 | **SSRF漏洞利用** | `performing-ssrf-vulnerability-exploitation` | Tests web application URL parameters for Server-Side Request Forgery b… | [SKILL.md](skills/SSRF漏洞利用_performing-ssrf-vulnerability-exploitation/SKILL.md) |
 | 30 | **SaaS令牌滥用狩猎** | `hunting-saas-sso-token-abuse` | Hunts for stolen-session and OAuth/PRT token replay (T1550.001) by cor… | [SKILL.md](skills/SaaS令牌滥用狩猎_hunting-saas-sso-token-abuse/SKILL.md) |
 | 31 | **Sigma检测规则编写** | `building-detection-rules-with-sigma` | Builds vendor-agnostic detection rules using the Sigma rule format for… | [SKILL.md](skills/Sigma检测规则编写_building-detection-rules-with-sigma/SKILL.md) |
-| 32 | **Splunk SOAR自动化** | `implementing-soar-automation-with-phantom` | Implements Security Orchestration, Automation, and Response (SOAR) wor… | [SKILL.md](skills/Splunk SOAR自动化_implementing-soar-automation-with-phantom/SKILL.md) |
+| 32 | **Splunk SOAR自动化** | `implementing-soar-automation-with-phantom` | Implements Security Orchestration, Automation, and Response (SOAR) wor… | [SKILL.md](skills/Splunk%20SOAR自动化_implementing-soar-automation-with-phantom/SKILL.md) |
 | 33 | **Splunk事件日志分析** | `analyzing-windows-event-logs-in-splunk` | Analyzes Windows Security, System, and Sysmon event logs in Splunk to… | [SKILL.md](skills/Splunk事件日志分析_analyzing-windows-event-logs-in-splunk/SKILL.md) |
 | 34 | **Splunk告警分流** | `triaging-security-alerts-in-splunk` | Triages security alerts in Splunk Enterprise Security by classifying s… | [SKILL.md](skills/Splunk告警分流_triaging-security-alerts-in-splunk/SKILL.md) |
 | 35 | **Splunk威胁情报富化** | `building-threat-intelligence-enrichment-in-splunk` | Build automated IOC enrichment pipelines in Splunk Enterprise Security… | [SKILL.md](skills/Splunk威胁情报富化_building-threat-intelligence-enrichment-in-splunk/SKILL.md) |
@@ -72,4 +73,4 @@
 
 ---
 
-← 返回 [仓库首页](../README.md) · 索引见 [index.json](../index.json)
+<sub>本页由脚本生成 · 技能内容转载自上游项目，非原创 · [返回首页](../README.md) · [索引](../index.json) · [使用边界](../SECURITY.md)</sub>

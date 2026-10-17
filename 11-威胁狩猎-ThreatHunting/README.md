@@ -1,15 +1,16 @@
-# 11-威胁狩猎 · ThreatHunting
+# 11 · 威胁狩猎
 
-> 本分类共 **58** 个技能（蓝队 58）。
+[← 仓库首页](../README.md) · 分类 **11** · `ThreatHunting` · **58** 个技能 · 领域 **蓝队**
 
-每个技能为独立目录，内含 `SKILL.md`（入口）、`references/`（补充资料）、`scripts/`（可运行脚本）与 `LICENSE`。
+> 每个技能为独立目录，内含 `SKILL.md`（入口）、`references/`（补充资料）、`scripts/`（可运行脚本）与 `LICENSE`。
+> 技能内容**转载自上游开源项目，非原创**，版权归原作者所有。详见[来源与版权](../README.md#来源与版权)与[使用边界](../SECURITY.md)。
 
-| # | 技能 | 英文标识 | 摘要 | 路径 |
+| # | 技能 | 英文标识 | 摘要 | 入口 |
 |---|---|---|---|---|
-| 1 | **AD DCSync攻击检测** | `detecting-dcsync-attack-in-active-directory` | Detect DCSync attacks (MITRE T1003.006) where adversaries abuse Active… | [SKILL.md](skills/AD DCSync攻击检测_detecting-dcsync-attack-in-active-directory/SKILL.md) |
+| 1 | **AD DCSync攻击检测** | `detecting-dcsync-attack-in-active-directory` | Detect DCSync attacks (MITRE T1003.006) where adversaries abuse Active… | [SKILL.md](skills/AD%20DCSync攻击检测_detecting-dcsync-attack-in-active-directory/SKILL.md) |
 | 2 | **C2信标狩猎** | `hunting-for-command-and-control-beaconing` | Detect C2 beaconing patterns in network traffic using frequency analys… | [SKILL.md](skills/C2信标狩猎_hunting-for-command-and-control-beaconing/SKILL.md) |
 | 3 | **Chainsaw事件日志狩猎** | `hunting-evtx-with-chainsaw` | Run Chainsaw against collected Windows EVTX files to hunt with the Sig… | [SKILL.md](skills/Chainsaw事件日志狩猎_hunting-evtx-with-chainsaw/SKILL.md) |
-| 4 | **Cobalt Strike信标狩猎** | `hunting-for-cobalt-strike-beacons` | Detect Cobalt Strike beacon command-and-control traffic using default… | [SKILL.md](skills/Cobalt Strike信标狩猎_hunting-for-cobalt-strike-beacons/SKILL.md) |
+| 4 | **Cobalt Strike信标狩猎** | `hunting-for-cobalt-strike-beacons` | Detect Cobalt Strike beacon command-and-control traffic using default… | [SKILL.md](skills/Cobalt%20Strike信标狩猎_hunting-for-cobalt-strike-beacons/SKILL.md) |
 | 5 | **DCOM横向移动狩猎** | `hunting-for-dcom-lateral-movement` | Hunt for DCOM-based lateral movement (MITRE ATT&CK T1021.003) by detec… | [SKILL.md](skills/DCOM横向移动狩猎_hunting-for-dcom-lateral-movement/SKILL.md) |
 | 6 | **DCSync攻击狩猎** | `hunting-for-dcsync-attacks` | Detect DCSync attacks (MITRE ATT&CK T1003.006) by analyzing Windows Ev… | [SKILL.md](skills/DCSync攻击狩猎_hunting-for-dcsync-attacks/SKILL.md) |
 | 7 | **DLL侧加载攻击检测** | `detecting-dll-sideloading-attacks` | Detect DLL side-loading and search-order hijacking (MITRE T1574) where… | [SKILL.md](skills/DLL侧加载攻击检测_detecting-dll-sideloading-attacks/SKILL.md) |
@@ -22,7 +23,7 @@
 | 14 | **Mimikatz执行模式检测** | `detecting-mimikatz-execution-patterns` | Detect Mimikatz credential-dumping activity via command-line pattern m… | [SKILL.md](skills/Mimikatz执行模式检测_detecting-mimikatz-execution-patterns/SKILL.md) |
 | 15 | **NTLM中继事件关联检测** | `detecting-ntlm-relay-with-event-correlation` | Detect NTLM relay attacks (T1557.001) by correlating Windows Event 462… | [SKILL.md](skills/NTLM中继事件关联检测_detecting-ntlm-relay-with-event-correlation/SKILL.md) |
 | 16 | **NTLM中继攻击狩猎** | `hunting-for-ntlm-relay-attacks` | Detects NTLM relay attacks (MITRE T1557.001) by analyzing Windows Even… | [SKILL.md](skills/NTLM中继攻击狩猎_hunting-for-ntlm-relay-attacks/SKILL.md) |
-| 17 | **PowerShell Empire痕迹分析** | `analyzing-powershell-empire-artifacts` | Detect PowerShell Empire post-exploitation framework artifacts in Wind… | [SKILL.md](skills/PowerShell Empire痕迹分析_analyzing-powershell-empire-artifacts/SKILL.md) |
+| 17 | **PowerShell Empire痕迹分析** | `analyzing-powershell-empire-artifacts` | Detect PowerShell Empire post-exploitation framework artifacts in Wind… | [SKILL.md](skills/PowerShell%20Empire痕迹分析_analyzing-powershell-empire-artifacts/SKILL.md) |
 | 18 | **Splunk横向移动检测** | `detecting-lateral-movement-with-splunk` | Detect adversary lateral movement across networks using Splunk SPL que… | [SKILL.md](skills/Splunk横向移动检测_detecting-lateral-movement-with-splunk/SKILL.md) |
 | 19 | **Sysmon计划任务检测** | `detecting-malicious-scheduled-tasks-with-sysmon` | Detect malicious scheduled task creation and modification using Sysmon… | [SKILL.md](skills/Sysmon计划任务检测_detecting-malicious-scheduled-tasks-with-sysmon/SKILL.md) |
 | 20 | **Sysmon进程注入检测** | `detecting-t1055-process-injection-with-sysmon` | Detect process injection techniques (T1055) - including DLL injection,… | [SKILL.md](skills/Sysmon进程注入检测_detecting-t1055-process-injection-with-sysmon/SKILL.md) |
@@ -33,7 +34,7 @@
 | 25 | **Webshell活动狩猎** | `hunting-for-webshell-activity` | Runs a hypothesis-driven threat hunt for web shell deployment (T1505.0… | [SKILL.md](skills/Webshell活动狩猎_hunting-for-webshell-activity/SKILL.md) |
 | 26 | **Windows持久化机制狩猎** | `hunting-for-persistence-mechanisms-in-windows` | Systematically hunts for adversary persistence mechanisms across Windo… | [SKILL.md](skills/Windows持久化机制狩猎_hunting-for-persistence-mechanisms-in-windows/SKILL.md) |
 | 27 | **YARA规则威胁狩猎** | `performing-threat-hunting-with-yara-rules` | Use YARA pattern-matching rules to hunt for malware, suspicious files,… | [SKILL.md](skills/YARA规则威胁狩猎_performing-threat-hunting-with-yara-rules/SKILL.md) |
-| 28 | **Zeek DNS隧道狩猎** | `hunting-for-dns-tunneling-with-zeek` | Detects DNS tunneling and covert-channel data exfiltration by analyzin… | [SKILL.md](skills/Zeek DNS隧道狩猎_hunting-for-dns-tunneling-with-zeek/SKILL.md) |
+| 28 | **Zeek DNS隧道狩猎** | `hunting-for-dns-tunneling-with-zeek` | Detects DNS tunneling and covert-channel data exfiltration by analyzin… | [SKILL.md](skills/Zeek%20DNS隧道狩猎_hunting-for-dns-tunneling-with-zeek/SKILL.md) |
 | 29 | **云服务滥用狩猎** | `hunting-for-living-off-the-cloud-techniques` | Hunts for adversary abuse of legitimate cloud services (Azure, AWS, GC… | [SKILL.md](skills/云服务滥用狩猎_hunting-for-living-off-the-cloud-techniques/SKILL.md) |
 | 30 | **供应链失陷狩猎** | `hunting-for-supply-chain-compromise` | Runs a hypothesis-driven threat hunt for supply-chain compromise (T119… | [SKILL.md](skills/供应链失陷狩猎_hunting-for-supply-chain-compromise/SKILL.md) |
 | 31 | **信标频率分析狩猎** | `hunting-for-beaconing-with-frequency-analysis` | Identify command-and-control beaconing patterns in network traffic by… | [SKILL.md](skills/信标频率分析狩猎_hunting-for-beaconing-with-frequency-analysis/SKILL.md) |
@@ -67,4 +68,4 @@
 
 ---
 
-← 返回 [仓库首页](../README.md) · 索引见 [index.json](../index.json)
+<sub>本页由脚本生成 · 技能内容转载自上游项目，非原创 · [返回首页](../README.md) · [索引](../index.json) · [使用边界](../SECURITY.md)</sub>

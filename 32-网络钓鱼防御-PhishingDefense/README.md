@@ -1,10 +1,11 @@
-# 32-网络钓鱼防御 · PhishingDefense
+# 32 · 网络钓鱼防御
 
-> 本分类共 **16** 个技能（蓝队 16）。
+[← 仓库首页](../README.md) · 分类 **32** · `PhishingDefense` · **16** 个技能 · 领域 **蓝队**
 
-每个技能为独立目录，内含 `SKILL.md`（入口）、`references/`（补充资料）、`scripts/`（可运行脚本）与 `LICENSE`。
+> 每个技能为独立目录，内含 `SKILL.md`（入口）、`references/`（补充资料）、`scripts/`（可运行脚本）与 `LICENSE`。
+> 技能内容**转载自上游开源项目，非原创**，版权归原作者所有。详见[来源与版权](../README.md#来源与版权)与[使用边界](../SECURITY.md)。
 
-| # | 技能 | 英文标识 | 摘要 | 路径 |
+| # | 技能 | 英文标识 | 摘要 | 入口 |
 |---|---|---|---|---|
 | 1 | **AI检测商业邮件诈骗** | `detecting-business-email-compromise-with-ai` | Deploy AI and NLP-powered detection systems to identify business email… | [SKILL.md](skills/AI检测商业邮件诈骗_detecting-business-email-compromise-with-ai/SKILL.md) |
 | 2 | **DMARC策略落地** | `performing-dmarc-policy-enforcement-rollout` | Execute a phased DMARC rollout by inventorying sending sources, config… | [SKILL.md](skills/DMARC策略落地_performing-dmarc-policy-enforcement-rollout/SKILL.md) |
@@ -25,4 +26,4 @@
 
 ---
 
-← 返回 [仓库首页](../README.md) · 索引见 [index.json](../index.json)
+<sub>本页由脚本生成 · 技能内容转载自上游项目，非原创 · [返回首页](../README.md) · [索引](../index.json) · [使用边界](../SECURITY.md)</sub>

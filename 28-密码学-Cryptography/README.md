@@ -1,13 +1,14 @@
-# 28-密码学 · Cryptography
+# 28 · 密码学
 
-> 本分类共 **16** 个技能（蓝队 16）。
+[← 仓库首页](../README.md) · 分类 **28** · `Cryptography` · **16** 个技能 · 领域 **蓝队**
 
-每个技能为独立目录，内含 `SKILL.md`（入口）、`references/`（补充资料）、`scripts/`（可运行脚本）与 `LICENSE`。
+> 每个技能为独立目录，内含 `SKILL.md`（入口）、`references/`（补充资料）、`scripts/`（可运行脚本）与 `LICENSE`。
+> 技能内容**转载自上游开源项目，非原创**，版权归原作者所有。详见[来源与版权](../README.md#来源与版权)与[使用边界](../SECURITY.md)。
 
-| # | 技能 | 英文标识 | 摘要 | 路径 |
+| # | 技能 | 英文标识 | 摘要 | 入口 |
 |---|---|---|---|---|
 | 1 | **AES静态数据加密** | `implementing-aes-encryption-for-data-at-rest` | Guides implementing AES-256 encryption in GCM mode (FIPS 197) for file… | [SKILL.md](skills/AES静态数据加密_implementing-aes-encryption-for-data-at-rest/SKILL.md) |
-| 2 | **AWS KMS信封加密** | `implementing-envelope-encryption-with-aws-kms` | Implements envelope encryption with AWS KMS, encrypting data locally w… | [SKILL.md](skills/AWS KMS信封加密_implementing-envelope-encryption-with-aws-kms/SKILL.md) |
+| 2 | **AWS KMS信封加密** | `implementing-envelope-encryption-with-aws-kms` | Implements envelope encryption with AWS KMS, encrypting data locally w… | [SKILL.md](skills/AWS%20KMS信封加密_implementing-envelope-encryption-with-aws-kms/SKILL.md) |
 | 3 | **Ed25519数字签名** | `implementing-digital-signatures-with-ed25519` | Implements digital signatures using the Ed25519 algorithm (Curve25519)… | [SKILL.md](skills/Ed25519数字签名_implementing-digital-signatures-with-ed25519/SKILL.md) |
 | 4 | **HSM密钥存储配置** | `configuring-hsm-for-key-storage` | Configures Hardware Security Modules for cryptographic key storage usi… | [SKILL.md](skills/HSM密钥存储配置_configuring-hsm-for-key-storage/SKILL.md) |
 | 5 | **HSM硬件安全模块集成** | `performing-hardware-security-module-integration` | Integrates Hardware Security Modules (HSMs) via the PKCS#11 interface… | [SKILL.md](skills/HSM硬件安全模块集成_performing-hardware-security-module-integration/SKILL.md) |
@@ -25,4 +26,4 @@
 
 ---
 
-← 返回 [仓库首页](../README.md) · 索引见 [index.json](../index.json)
+<sub>本页由脚本生成 · 技能内容转载自上游项目，非原创 · [返回首页](../README.md) · [索引](../index.json) · [使用边界](../SECURITY.md)</sub>

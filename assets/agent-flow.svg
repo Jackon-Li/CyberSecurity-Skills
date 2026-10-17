@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="336" viewBox="0 0 960 336" role="img" aria-label="AI 助手消费技能的五个步骤：检索、定位、读取、执行、验证">
+<rect width="960" height="336" fill="#ffffff"/>
+<text x="20" y="40" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="18" font-weight="700" fill="#1f2328">AI 助手如何消费这 820 个技能</text>
+<text x="20" y="62" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="12" fill="#59636e">核心原则：先检索，再读取。避免把 896 KB 的索引整份塞进上下文。</text>
+<rect x="20" y="84" width="160" height="104" rx="8" fill="#ffffff" stroke="#d8dee4" stroke-width="1"/>
+<rect x="20" y="84" width="160" height="4" rx="2" fill="#0969da"/>
+<circle cx="42" cy="114" r="11" fill="#0969da"/>
+<text x="42" y="118" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="11" font-weight="700" fill="#ffffff">1</text>
+<text x="61" y="119" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="14" font-weight="600" fill="#1f2328">检索</text>
+<text x="36" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="10.5" fill="#59636e">用中文关键词或分类编号</text>
+<text x="36" y="166" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="10.5" fill="#59636e">跑 skill_query.py 拿候选</text>
+<path d="M 186 136.0 L 202 136.0" stroke="#afb8c1" stroke-width="1.5" fill="none"/>
+<path d="M 198 132.0 L 203 136.0 L 198 140.0" stroke="#afb8c1" stroke-width="1.5" fill="none"/>
+<rect x="210" y="84" width="160" height="104" rx="8" fill="#ffffff" stroke="#d8dee4" stroke-width="1"/>
+<rect x="210" y="84" width="160" height="4" rx="2" fill="#1a7f83"/>
+<circle cx="232" cy="114" r="11" fill="#1a7f83"/>
+<text x="232" y="118" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="11" font-weight="700" fill="#ffffff">2</text>
+<text x="251" y="119" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="14" font-weight="600" fill="#1f2328">定位</text>
+<text x="226" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="10.5" fill="#59636e">输出 name / path</text>
+<text x="226" y="166" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="10.5" fill="#59636e">只返回十几行，不占上下文</text>
+<path d="M 376 136.0 L 392 136.0" stroke="#afb8c1" stroke-width="1.5" fill="none"/>
+<path d="M 388 132.0 L 393 136.0 L 388 140.0" stroke="#afb8c1" stroke-width="1.5" fill="none"/>
+<rect x="400" y="84" width="160" height="104" rx="8" fill="#ffffff" stroke="#d8dee4" stroke-width="1"/>
+<rect x="400" y="84" width="160" height="4" rx="2" fill="#8250df"/>
+<circle cx="422" cy="114" r="11" fill="#8250df"/>
+<text x="422" y="118" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="11" font-weight="700" fill="#ffffff">3</text>
+<text x="441" y="119" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="14" font-weight="600" fill="#1f2328">读取</text>
+<text x="416" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="10.5" fill="#59636e">只读命中的 SKILL.md</text>
+<text x="416" y="166" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="10.5" fill="#59636e">通常 200–400 行</text>
+<path d="M 566 136.0 L 582 136.0" stroke="#afb8c1" stroke-width="1.5" fill="none"/>
+<path d="M 578 132.0 L 583 136.0 L 578 140.0" stroke="#afb8c1" stroke-width="1.5" fill="none"/>
+<rect x="590" y="84" width="160" height="104" rx="8" fill="#ffffff" stroke="#d8dee4" stroke-width="1"/>
+<rect x="590" y="84" width="160" height="4" rx="2" fill="#d1242f"/>
+<circle cx="612" cy="114" r="11" fill="#d1242f"/>
+<text x="612" y="118" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="11" font-weight="700" fill="#ffffff">4</text>
+<text x="631" y="119" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="14" font-weight="600" fill="#1f2328">执行</text>
+<text x="606" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="10.5" fill="#59636e">按 Workflow 分步操作</text>
+<text x="606" y="166" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="10.5" fill="#59636e">需要细节再看 references/</text>
+<path d="M 756 136.0 L 772 136.0" stroke="#afb8c1" stroke-width="1.5" fill="none"/>
+<path d="M 768 132.0 L 773 136.0 L 768 140.0" stroke="#afb8c1" stroke-width="1.5" fill="none"/>
+<rect x="780" y="84" width="160" height="104" rx="8" fill="#ffffff" stroke="#d8dee4" stroke-width="1"/>
+<rect x="780" y="84" width="160" height="4" rx="2" fill="#1a7f34"/>
+<circle cx="802" cy="114" r="11" fill="#1a7f34"/>
+<text x="802" y="118" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="11" font-weight="700" fill="#ffffff">5</text>
+<text x="821" y="119" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="14" font-weight="600" fill="#1f2328">验证</text>
+<text x="796" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="10.5" fill="#59636e">对照 Validation Criteria</text>
+<text x="796" y="166" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="10.5" fill="#59636e">缺失时自行设计验证</text>
+<rect x="20" y="220" width="920" height="92" rx="8" fill="#fff8c5" stroke="#d4a72c" stroke-width="1"/>
+<rect x="20" y="220" width="4" height="92" rx="2" fill="#bf8700"/>
+<text x="40" y="246" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="12.5" font-weight="600" fill="#7d4e00">为什么不能直接读 index.json</text>
+<text x="40" y="268" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="11.5" fill="#7d4e00">index.json 约 896 KB / 数十万字符。整份读取会耗尽上下文，导致后续无法处理实际问题。</text>
+<text x="40" y="288" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="11.5" fill="#7d4e00">先检索后读取，单次上下文开销可从数十万字符降到几百字符——这就是 scripts/skill_query.py 存在的理由。</text>
+<text x="40" y="304" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif" font-size="10.5" fill="#9a6700">脚本为参考实现，未经本仓库安全审计，执行前请阅读源码。</text>
+</svg>
